@@ -179,6 +179,10 @@ layout: table_wrappers
           {{ content }}
         {% endif %}
 
+        {% if page.has_toc != false %}
+        {% include components/children_nav.html %}
+        {% endif %}
+
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
           {% include toc_heading_custom.html %}
