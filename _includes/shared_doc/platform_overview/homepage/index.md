@@ -12,4 +12,4 @@ The {{ page.portal }} homepage (Figure 1) consists of:
 - the EcoPortal collaborations and support;
 - a [footer]() containing additional supporting information and documentation.
 
-![Homepage]({{site.figures_link}}/{{page.portal}}/homepage.png)
+![Homepage]({{site.figures_link}}/{{page.portal}}/Figure1.png)

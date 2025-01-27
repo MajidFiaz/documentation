@@ -5,6 +5,7 @@ layout: default
 parent:  EcoPortal overview
 grand_parent: Users guide
 permalink: user_guide/platform_overview/homepage/EcoPortal
+has_children: true
 nav_order: 1
 ---
 
