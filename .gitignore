@@ -1,0 +1,15 @@
+.DS_Store
+administration.bbprojectd/jgraybeal.bbprojectsettings
+*.bbprojectdata
+administration.bbprojectd/Scratchpad.txt
+administration.bbprojectd/Unix Worksheet.worksheet
+*.gem
+.bundle
+.ruby-version
+.jekyll-cache
+.sass-cache
+.idea
+*.iml
+.vscode
+_site
+node_modules

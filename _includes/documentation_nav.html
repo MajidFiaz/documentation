@@ -1,0 +1,22 @@
+<!-- _includes/documentation_nav.html -->
+<div>
+    This page is available for these portals:<br>
+</div>
+
+<div class="ontoportal-tabs" id="ontoportal_tabs">
+    {% assign portals = 'OntoPortal,BioPortal,EcoPortal,EarthPortal' | split: ',' %}
+    {% for portal in portals %}
+        {% capture portal_class %}{{ portal }}{% endcapture %}
+        {% if page.portal == portal %}
+            <a class="button active {{ portal_class }}" href="{{ portal }}">
+                {% include ontoportal_logo.svg %}
+                {{ portal }}
+            </a>
+        {% else %}
+            <a class="button {{ portal_class }}" href="{{ portal }}">
+                {% include ontoportal_logo.svg %}
+                {{ portal }}
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>
