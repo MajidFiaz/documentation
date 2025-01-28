@@ -26,11 +26,11 @@ The navigation bar at the top of the homepage contains eighth menu items for nav
 - VocBench - to create or edit a semantic artefact.
 - Login - to access the login/registration form. Once logged in, username will be displayed here and it will show the access to [account setting]() and “logout” button.
 - Support:
-- - Send Feedback - to request assistance with questions, bug reports, feedback, and so on through an easy-to-use contact form.
-- - Documentation - to access the EcoPortal documentation.
-- - Cite us - to find the citation and read the publications related to EcoPortal.
-- - Release Notes - to read the last release notes.
-- - Groups and Categories - to find more information about groups and categories available in EcoPortal.
+  - Send Feedback - to request assistance with questions, bug reports, feedback, and so on through an easy-to-use contact form.
+  - Documentation - to access the EcoPortal documentation.
+  - Cite us - to find the citation and read the publications related to EcoPortal.
+  - Release Notes - to read the last release notes.
+  - Groups and Categories - to find more information about groups and categories available in EcoPortal.
 
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure1.png)
 
@@ -39,5 +39,31 @@ The navigation bar at the top of the homepage contains eighth menu items for nav
 In the navigation bar, the Account Settings page can be accessed to view all the account details: personal information, submitted semantic artefacts, mailing list subscription, customisation options and the personal API Key (Figure 2).
 
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure2.png)
+
+### O’FAIRe tool
+The Ontology FAIRness Evaluator (O’FAIRe) tool is a web service that performs an automatic FAIRness evaluation of semantic artefacts by analysing metadata fields associated with particular questions corresponding to each FAIR principle and sub-principle.
+
+The tool automatically executes the tests and evaluates how the semantic artefacts respond to the questions, providing a global normalised FAIR score associated with some basic statistics. To better understand which are the features of the tool and how the FAIRness evaluation is executed for each semantic artefact, please go [here](#fair-score). To learn more about the tool please visit the [GitHub page](https://github.com/agroportal/fairness).
+
+### Footer
+
+The footer contains all the EcoPortal support links, divided into five sections:
+
+- Products:
+  - Release Notes
+  - API
+  - OntoPortal
+- Support:
+  - Contact Us
+  - Documentation
+- Legal:
+  - Terms & Conditions 
+  - Privacy Policy 
+- About:
+  - About us 
+  - Team 
+  - Cite Us 
+  - Projects
+
 
 
