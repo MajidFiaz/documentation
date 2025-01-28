@@ -1,4 +1,4 @@
-The [Search]() option allows users to find a term across semantic artefacts by clicking on the arrow pointing to the right in the home page search box and entering free text in the “Enter a term” bar. The system looks for matches in the term name, synonyms, term IDs, and in property values.
+The [Search](https://ecoportal.lifewatchdev.eu/search) option allows users to find a term across semantic artefacts by clicking on the arrow pointing to the right in the home page search box and entering free text in the “Enter a term” bar. The system looks for matches in the term name, synonyms, term IDs, and in property values.
 
 The advanced search options can be used to add (Figure 4):
 - _Property values_: named association between two entities. Examples are "definition" (a relationship between a class and some text) and "part of" (a relationship between two classes). 
@@ -7,7 +7,7 @@ The advanced search options can be used to add (Figure 4):
 
 Users can also narrow the search by selecting “exact matches” and/or “classes with definitions” or by selecting one or more categories and/or semantic artefacts using the "Categories" and "Semantic resources" fields. In addition, it is possible to perform a broader search by selecting one or more federated OntoPortal instances, namely AgroPortal, BiodivPortal and EarthPortal, from the section “Results from external portals”.
 
-![Search Page]({{site.figures_link}}/{{page.portal}}/Fugure4.png)
+![Search Page]({{site.figures_link}}/{{page.portal}}/Figure4.png)
 
 
 To allow better performances, the search result is limited to the top 100 matches.

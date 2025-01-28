@@ -30,6 +30,9 @@ All information available through the EcoPortal website is also available throug
 ### Annotator
 {% include shared_doc/platform_overview/tools/annotator/annotator.md  %}
 
+### Mappings
+{% include shared_doc/platform_overview/tools/mapping/mappings.md  %}
+
 ### Recommender
 {% include shared_doc/platform_overview/tools/recommender/recommender.md  %}
 
