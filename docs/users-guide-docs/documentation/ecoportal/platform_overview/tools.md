@@ -23,8 +23,6 @@ All information available through the EcoPortal website is also available throug
 
 ### Browse
 {% include shared_doc/platform_overview/tools/browse/browse.md  %}
-{% include shared_doc/platform_overview/tools/browse/filters.md  %}
-{% include shared_doc/platform_overview/tools/browse/submit.md  %}
 
 ### Search
 {% include shared_doc/platform_overview/tools/search/search.md  %}
