@@ -1,7 +1,7 @@
 ## Homepage
 
 The {{ page.portal }} homepage (Figure 1) consists of:
-- a header containing the logo on the left and the [navigation bar]() on the right;
+- a header containing the logo on the left and the [navigation bar](#navigation-bar) on the right;
 - a [search bar]() to quickly search for terms or for semantic artefacts by entering a free text. The autocomplete functionality will support the quest by suggesting terms or semantic artefacts available within the portal;
 - some statistical information, provided as bubbles cloud, indicating the number of visits for the EcoPortal semantic artefacts;
 - EcoPortal metrics such as number of published resources, number of classes, etc.;
@@ -12,4 +12,32 @@ The {{ page.portal }} homepage (Figure 1) consists of:
 - the EcoPortal collaborations and support;
 - a [footer]() containing additional supporting information and documentation.
 
+
+
+### Navigation bar
+
+The navigation bar at the top of the homepage contains eighth menu items for navigating within EcoPortal:
+
+- Browse - to search semantic artefacts.
+- Mappings - to explore mappings and upload them.
+- Recommender - to get recommendations from semantic artefacts’ terms.
+- Annotator - to get annotations with semantic artefacts’ terms.
+- Landscape - to visualise data retrieved from analyses on semantic artefacts metadata.
+- VocBench - to create or edit a semantic artefact.
+- Login - to access the login/registration form. Once logged in, username will be displayed here and it will show the access to [account setting]() and “logout” button.
+- Support:
+- - Send Feedback - to request assistance with questions, bug reports, feedback, and so on through an easy-to-use contact form.
+- - Documentation - to access the EcoPortal documentation.
+- - Cite us - to find the citation and read the publications related to EcoPortal.
+- - Release Notes - to read the last release notes.
+- - Groups and Categories - to find more information about groups and categories available in EcoPortal.
+
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure1.png)
+
+### Account settings
+
+In the navigation bar, the Account Settings page can be accessed to view all the account details: personal information, submitted semantic artefacts, mailing list subscription, customisation options and the personal API Key (Figure 2).
+
+![Homepage]({{site.figures_link}}/{{page.portal}}/Figure2.png)
+
+
