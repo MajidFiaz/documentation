@@ -8,7 +8,13 @@ Mappings can be searched in two ways:
 - Browse mappings between classes/concepts in different semantic artefacts from the “Table view” by selecting the semantic artefact from the drop-down menu. The results table will show all the semantic artefacts to which the selected resource is mapped with and the number of existing mappings (minimum one) (Figure 8). Select a semantic artefact from this table to browse the mappings between the two semantic artefacts.
 
 To access mappings from the API, please see our [Mappings REST API documentation]().
-![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure6.png)
-![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure7.png)
-![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure8.png)
 
+![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure6.png)
+_Figure 6: Browse mappings between classes in different semantic artefacts_
+
+![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure7.png)
+_Figure 7: Mappings of a class/concept_
+
+![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure8.png)
+_Figure 8: Find mappings of a class/concept_
+{: .text-center }
