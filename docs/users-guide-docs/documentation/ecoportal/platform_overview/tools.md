@@ -32,12 +32,12 @@ All information available through the EcoPortal website is also available throug
 
 ### Mappings
 {% include shared_doc/platform_overview/tools/mapping/mappings.md  %}
+{% include shared_doc/platform_overview/tools/mapping/sources.md  %}
 
 ### Recommender
 {% include shared_doc/platform_overview/tools/recommender/recommender.md  %}
 
+### VocBench
 {% include shared_doc/platform_overview/tools/vocbench/vocbench.md  %}
 
-### Mappings
-{% include shared_doc/platform_overview/tools/mapping/mappings.md  %}
-{% include shared_doc/platform_overview/tools/mapping/sources.md  %}
+
