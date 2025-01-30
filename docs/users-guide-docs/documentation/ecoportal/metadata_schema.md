@@ -9,3 +9,4 @@ nav_order: 3
 
 
 {% include shared_doc/metadata_schema/MOD.md  %}
+{% include shared_doc/metadata_schema/table.md  %}
