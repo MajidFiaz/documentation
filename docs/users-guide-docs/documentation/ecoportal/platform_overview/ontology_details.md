@@ -34,3 +34,6 @@ nav_order: 3
 {% include shared_doc/platform_overview/ontology_details/menu/menu_schemes.md  %}
 {% include shared_doc/platform_overview/ontology_details/menu/menu_collections.md  %}
 {% include shared_doc/platform_overview/ontology_details/menu/menu_widgets.md  %}
+{% include shared_doc/platform_overview/ontology_details/menu/menu_widgets.md  %}
+{% include shared_doc/platform_overview/ontology_details/menu/menu_sparql.md  %}
+{% include shared_doc/platform_overview/ontology_details/menu/menu_check.md  %}
