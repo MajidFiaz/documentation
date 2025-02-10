@@ -46,30 +46,35 @@ All subsequent steps require moving to the “Data” tab to edit the semantic a
 ![Scheme tab of the project in VocBench]({{site.figures_link}}/{{page.portal}}/Figure31.png)
 
 _Figure 31: Scheme tab of the project in VocBench_
+{: .text-center }
 
 In the scheme creation dialog (Figure 32), specify the label of the concept scheme e.g., “continents” in English and then click on the **Ok** button.
 
 ![Creation of a concept scheme in VocBench]({{site.figures_link}}/{{page.portal}}/Figure32.png)
 
 _Figure 32: Creation of a concept scheme in VocBench_
+{: .text-center }
 
 Then, select the newly created scheme as in Figure 32.
 
 ![Selection of a newly created scheme in VocBench]({{site.figures_link}}/{{page.portal}}/Figure33.png)
 
 _Figure 33: Selection of a newly created scheme in VocBench_
+{: .text-center }
 
 In the Concept tab (Figure 34), click on the create button to create a new skos:Concept ( ()* ).
 
 ![Concept tab of the project in VocBench]({{site.figures_link}}/{{page.portal}}/Figure34.png)
 
 _Figure 34: Concept tab of the project in VocBench_
+{: .text-center }
 
 In the concept creation dialog (Figure 35), specify the label of the concept e.g., “Africa” in English and then click on the **Ok** button. This label represents the skos:prefLabel of the concept.
 
 ![Creation of a new concept in VocBench]({{site.figures_link}}/{{page.portal}}/Figure35.png)
 
 _Figure 35: Creation of a new concept in VocBench_
+{: .text-center }
 
 Do the same to create other concepts:
 - America
@@ -82,16 +87,19 @@ Do the same to create other concepts:
 ![The concept tree in VocBench]({{site.figures_link}}/{{page.portal}}/Figure36.png)
 
 _Figure 36: The concept tree in VocBench_
+{: .text-center }
 
 To add hierarchical depth to the structure, in the concept tab (Figure 37) select one continent and click on “Create narrow concept” button ( ()* ).
 ![Create narrow concept]({{site.figures_link}}/{{page.portal}}/Figure37.png)
 
 _Figure 37: Create narrow concept_
+{: .text-center }
 
 In the creation dialog (Figure 38), specify the label for the narrow concept e.g., “Italy” in English and then click on the **Ok** button.
 ![Wizard for the creation of narrower concept]({{site.figures_link}}/{{page.portal}}/Figure38.png)
 
 _Figure 38: Wizard for the creation of narrower concept_
+{: .text-center }
 
 To understand in detail the different aspects of the user experience on VocBench, we recommend reading the following [User Manual](https://vocbench.uniroma2.it/doc/user/).
 
@@ -114,11 +122,13 @@ After uploading the Excel file using the "Browse" button, select "Subject mappin
 ![Subject header editor]({{site.figures_link}}/{{page.portal}}/Figure39.png)
 
 _Figure 39: Subject header editor_
+{: .text-center }
 
 Upon executing these tasks, all headers should be highlighted in **green** (Figure 40).
 
 ![Sheet2RDF tool]({{site.figures_link}}/{{page.portal}}/Figure40.png)
 
 _Figure 40: Sheet2RDF tool_
+{: .text-center }
 
 If a header appears in **yellow** or **black**, by clicking on the pencil icon next to the header users have the possibility to either manually map the SKOS/OWL property or ignore the header. Following this, the blue "play" button and the subsequent green one should be clicked to generate the PURL code and triples. After the triples are generated, navigating to the "Generated triples preview" tab allows users to click on the "Add triples" button, presenting all the information in the "Data" section.
