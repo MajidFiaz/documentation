@@ -4,6 +4,8 @@ The Browse tool allows users to search for semantic artefacts. When opening the 
 
 ![Browser Page]({{site.figures_link}}/{{page.portal}}/Figure3.png)
 
+_Figure 3: Browser page_
+{: .text-center }
 In both cases, the search can be further refined by using the filters provided on the left side of the page (Show semantic resource views, Show retired semantic resources, Categories, Groups, Natural languages, Formality levels, Semantic resource types). Upon selecting the filter, the search will be updated to show results which contain the selected filter. Repeat the process to add additional filters.
 
 Moreover, using the tabs on the right side of the search bar, the list of semantic artefacts can be sorted by choosing the type of format (SKOS, OWL, UMLS, OBO) or other desired criteria:

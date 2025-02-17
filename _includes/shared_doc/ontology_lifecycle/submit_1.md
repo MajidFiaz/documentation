@@ -3,6 +3,7 @@
 In order to publish a semantic artefact, you need to sign up for an account at the EcoPortal website:
 - Login EcoPortal: [link](http://ecoportal.lifewatchitaly.eu/login?redirect=http%3A%2F%2Fecoportal.lifewatchitaly.eu%2F)
 - Registration EcoPortal: [link](http://ecoportal.lifewatchitaly.eu/accounts/new)
+
 Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchitaly.eu/ontologies) and click the [Submit a semantic artefact](http://ecoportal.lifewatchitaly.eu/ontologies/new) button. The submission form requires to fill out some metadata about the submitted semantic artefact as shown in Figure 43:
 
 - *Name*: name of the {{ page.atom }}.

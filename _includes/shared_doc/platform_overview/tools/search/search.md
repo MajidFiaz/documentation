@@ -9,6 +9,8 @@ Users can also narrow the search by selecting “exact matches” and/or “clas
 
 ![Search Page]({{site.figures_link}}/{{page.portal}}/Figure4.png)
 
+_Figure 4: The search tool_
+{: .text-center }
 
 To allow better performances, the search result is limited to the top 100 matches.
 The search result within EcoPortal will display the matched terms and their associated semantic artefact. For each search result it is also shown:
