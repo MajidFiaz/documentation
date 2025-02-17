@@ -12,6 +12,7 @@ __b__.  the menu
 __c.__  the working space that changes based on the tabs selected
 
 ![VocBench UI]({{site.figures_link}}/{{page.portal}}/Figure10.png)
+{: .text-center }
 _Figure 10: VocBench UI_
 {: .text-center }
 
@@ -19,6 +20,8 @@ In the [Global Data Management](https://vocbench.uniroma2.it/doc/user/global_dat
 
 
 ![Global Data Management menu]({{site.figures_link}}/{{page.portal}}/Figure11.png)
+{: .text-center }
+
 _Figure 11: Global Data Management menu_
 {: .text-center }
 
