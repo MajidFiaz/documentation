@@ -5,9 +5,11 @@ VocBench is a web-based, multilingual, collaborative development platform, desig
 
 The user inference detailing the resource being edited on VocBench contains three sections (Figure 10):
 
-- __a__.  the Global Data Management 
-- __b__.  the menu
-- __c.__  the working space that changes based on the tabs selected
+__a__.  the Global Data Management
+
+__b__.  the menu
+
+__c.__  the working space that changes based on the tabs selected
 
 ![VocBench UI]({{site.figures_link}}/{{page.portal}}/Figure10.png)
 _Figure 10: VocBench UI_
