@@ -2,6 +2,7 @@
 In the Notes tab users can see all the comments or proposals issued by other registered EcoPortal users (Figure 21).
 
 ![View notes of a specific semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure21.png)
+{: .text-center }
 
 _Figure 21: View notes of a specific semantic artefact_
 {: .text-center }

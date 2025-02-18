@@ -18,6 +18,7 @@ The “Export data” panel consists of three sections as shown in Figure 41:
 
 
 ![Global Data Management export]({{site.figures_link}}/{{page.portal}}/Figure41.png)
+{: .text-center }
 
 _Figure 41:  Global Data Management export_
 {: .text-center }
@@ -45,6 +46,7 @@ The warning sign on the right of the widget associated with the EcoPortal Deploy
 - Resource type general (mandatory): the general type of resource.
 
 ![EcoPortal configuration wizard]({{site.figures_link}}/{{page.portal}}/Figure42.png)
+{: .text-center }
 
 _Figure 42:  EcoPortal configuration wizard_
 {: .text-center }

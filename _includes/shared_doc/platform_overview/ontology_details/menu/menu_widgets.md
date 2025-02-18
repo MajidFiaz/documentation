@@ -8,6 +8,7 @@ The types of widgets available in EcoPortal are:
 - **Tree Widget**: display a tree for classes in the selected semantic artefact with a search field.
 
 ![View widgets of a specific semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure26.png)
+{: .text-center }
 
 _Figure 26: View widgets of a specific semantic artefact_
 {: .text-center }

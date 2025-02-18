@@ -6,11 +6,13 @@ For each URIs available in the user interface, EcoPortal provides three options 
 - __URI resolvability check__. This last option checks if the original URI is resolvable and negotiable (Figure 28.2, i.e., support HTTP content negotiation and return alternative formats). Users can “click to see details” and be moved to EcoPortal new Check Resolvability application (Figure 28.2).
 
 ![URIs inks and resolvability check.]({{site.figures_link}}/{{page.portal}}/Figure28.1.png)
+{: .text-center }
 
 _Figure 28.1: URIs inks and resolvability check._
 {: .text-center }
 
 ![View of the Check Resolvability application.]({{site.figures_link}}/{{page.portal}}/Figure28.2.png)
+{: .text-center }
 
 _Figure 28.2: View of the Check Resolvability application._
 {: .text-center }

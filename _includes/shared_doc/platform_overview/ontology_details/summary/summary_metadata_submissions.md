@@ -1,5 +1,6 @@
 ### Submissions
 ![Submissions table]({{site.figures_link}}/{{page.portal}}/Figure16.png)
+{: .text-center }
 
 _Figure 16: Submissions table_
 {: .text-center }

@@ -13,6 +13,7 @@ __c.__  the working space that changes based on the tabs selected
 
 ![VocBench UI]({{site.figures_link}}/{{page.portal}}/Figure10.png)
 {: .text-center }
+
 _Figure 10: VocBench UI_
 {: .text-center }
 

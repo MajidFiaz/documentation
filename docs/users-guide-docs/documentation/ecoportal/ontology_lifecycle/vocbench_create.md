@@ -21,6 +21,7 @@ To create a new project or edit an existing project in **VocBench EcoPortal** th
     - *Model*: the model of the new project which can be [OWL](https://www.w3.org/TR/owl-features/) or [SKOS](https://www.w3.org/TR/skos-reference/). **NOTE**: To understand more about the SKOS model in EcoPortal it is recommended to read the following section. 
 
 ![Registration in VocBench and creation of a new semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure29.png)
+{: .text-center }
 
 _Figure 29: Registration in VocBench and creation of a new semantic artefact_
 {: .text-center }
@@ -38,12 +39,14 @@ The request is then managed by the administrator that will create the new projec
 In the list of projects, there should be a new item for the project as shown in Figure 30, with information related to name, model and lexicalization of the resource. It is indicated whether history and validation have been activated  in the project. Lastly, the repository location is specified (e.g. local or remote).
 
 ![List of projects in VocBench]({{site.figures_link}}/{{page.portal}}/Figure30.png)
+{: .text-center }
 
 _Figure 30:  List of projects in VocBench_
 {: .text-center }
 All subsequent steps require moving to the “Data” tab to edit the semantic artefact. In the “Scheme” tab (Figure 31), click on the create button to create a new skos:ConceptScheme ( []* ).
 
 ![Scheme tab of the project in VocBench]({{site.figures_link}}/{{page.portal}}/Figure31.png)
+{: .text-center }
 
 _Figure 31: Scheme tab of the project in VocBench_
 {: .text-center }
@@ -51,6 +54,7 @@ _Figure 31: Scheme tab of the project in VocBench_
 In the scheme creation dialog (Figure 32), specify the label of the concept scheme e.g., “continents” in English and then click on the **Ok** button.
 
 ![Creation of a concept scheme in VocBench]({{site.figures_link}}/{{page.portal}}/Figure32.png)
+{: .text-center }
 
 _Figure 32: Creation of a concept scheme in VocBench_
 {: .text-center }
@@ -58,6 +62,7 @@ _Figure 32: Creation of a concept scheme in VocBench_
 Then, select the newly created scheme as in Figure 32.
 
 ![Selection of a newly created scheme in VocBench]({{site.figures_link}}/{{page.portal}}/Figure33.png)
+{: .text-center }
 
 _Figure 33: Selection of a newly created scheme in VocBench_
 {: .text-center }
@@ -65,6 +70,7 @@ _Figure 33: Selection of a newly created scheme in VocBench_
 In the Concept tab (Figure 34), click on the create button to create a new skos:Concept ( ()* ).
 
 ![Concept tab of the project in VocBench]({{site.figures_link}}/{{page.portal}}/Figure34.png)
+{: .text-center }
 
 _Figure 34: Concept tab of the project in VocBench_
 {: .text-center }
@@ -72,6 +78,7 @@ _Figure 34: Concept tab of the project in VocBench_
 In the concept creation dialog (Figure 35), specify the label of the concept e.g., “Africa” in English and then click on the **Ok** button. This label represents the skos:prefLabel of the concept.
 
 ![Creation of a new concept in VocBench]({{site.figures_link}}/{{page.portal}}/Figure35.png)
+{: .text-center }
 
 _Figure 35: Creation of a new concept in VocBench_
 {: .text-center }
@@ -85,18 +92,21 @@ Do the same to create other concepts:
   The concept tree generated should contain a flat list of the five continents (Figure 36). It should be noted that the list of concepts generated is visualised in alphabetical order.
 
 ![The concept tree in VocBench]({{site.figures_link}}/{{page.portal}}/Figure36.png)
+{: .text-center }
 
 _Figure 36: The concept tree in VocBench_
 {: .text-center }
 
 To add hierarchical depth to the structure, in the concept tab (Figure 37) select one continent and click on “Create narrow concept” button ( ()* ).
 ![Create narrow concept]({{site.figures_link}}/{{page.portal}}/Figure37.png)
+{: .text-center }
 
 _Figure 37: Create narrow concept_
 {: .text-center }
 
 In the creation dialog (Figure 38), specify the label for the narrow concept e.g., “Italy” in English and then click on the **Ok** button.
 ![Wizard for the creation of narrower concept]({{site.figures_link}}/{{page.portal}}/Figure38.png)
+{: .text-center }
 
 _Figure 38: Wizard for the creation of narrower concept_
 {: .text-center }
@@ -120,6 +130,7 @@ After uploading the Excel file using the "Browse" button, select "Subject mappin
 **Note**: the Concept Scheme has to be created before uploading the SKOS concepts.
 
 ![Subject header editor]({{site.figures_link}}/{{page.portal}}/Figure39.png)
+{: .text-center }
 
 _Figure 39: Subject header editor_
 {: .text-center }
@@ -127,6 +138,7 @@ _Figure 39: Subject header editor_
 Upon executing these tasks, all headers should be highlighted in **green** (Figure 40).
 
 ![Sheet2RDF tool]({{site.figures_link}}/{{page.portal}}/Figure40.png)
+{: .text-center }
 
 _Figure 40: Sheet2RDF tool_
 {: .text-center }

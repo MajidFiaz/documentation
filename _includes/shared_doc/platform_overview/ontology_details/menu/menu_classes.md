@@ -5,10 +5,14 @@ On the summary page of the semantic artefact, by clicking on tab “Classes/Conc
   - Details: tab showing properties and relationships associated with the selected class/concept (Figure 17-18). Properties like ID, Preferred Name, Definition, and Type can be shown together with other properties,  depending on the resource’s representation model (SKOS; OWL; UMLS; OBO) and on the properties included in the selected semantic artefact. 
 
     ![View classes of a specific ontology - details]({{site.figures_link}}/{{page.portal}}/Figure17.png)
-    _Figure 17: View classes of a specific ontology - details_
+    {: .text-center }
+    
+  - _Figure 17: View classes of a specific ontology - details_
     {: .text-center }
     ![View classes of a specific thesaurus - details]({{site.figures_link}}/{{page.portal}}/Figure18.png)
-    _Figure 18: View classes of a specific thesaurus - details_
+    {: .text-center }
+    
+  - _Figure 18: View classes of a specific thesaurus - details_
     {: .text-center }
   - Notes: it displays all notes issued by EcoPortal users in relation to the selected class/concept. To issue generic comments or proposals regarding new classes, new relationships, or change properties, users must be logged in. 
   - Class/Concept Mappings: tab showing all the mappings associated with the selected class/concept (Figure 19). For each mapping users can see:
@@ -20,5 +24,7 @@ Logged in users can click on the "Create new mapping" button to manually insert 
 For more information about the mapping “Source” click [here]().
 
 ![View classed of a specific semantic artefact - mappings]({{site.figures_link}}/{{page.portal}}/Figure19.png)
+{: .text-center }
+
 _Figure 19: View classed of a specific semantic artefact - mappings_
 {: .text-center }

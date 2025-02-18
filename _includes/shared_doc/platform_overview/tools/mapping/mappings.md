@@ -10,13 +10,19 @@ Mappings can be searched in two ways:
 To access mappings from the API, please see our [Mappings REST API documentation]().
 
 ![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure6.png)
+{: .text-center }
+
 _Figure 6: Browse mappings between classes in different semantic artefacts_
 {: .text-center }
 
 ![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure7.png)
+{: .text-center }
+
 _Figure 7: Mappings of a class/concept_
 {: .text-center }
 
 ![Mappings Search]({{site.figures_link}}/{{page.portal}}/Figure8.png)
+{: .text-center }
+
 _Figure 8: Find mappings of a class/concept_
 {: .text-center }

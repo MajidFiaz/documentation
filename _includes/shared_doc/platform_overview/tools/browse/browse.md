@@ -3,6 +3,7 @@ The Browse tool allows users to search for semantic artefacts. When opening the 
 2. type the semantic artefact name or abbreviation in the Search bar.
 
 ![Browser Page]({{site.figures_link}}/{{page.portal}}/Figure3.png)
+{: .text-center }
 
 _Figure 3: Browser page_
 {: .text-center }

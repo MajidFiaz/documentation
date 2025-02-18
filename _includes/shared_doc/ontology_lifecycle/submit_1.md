@@ -25,6 +25,7 @@ Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchital
 Check the “Subscribe to email notifications for new notes” box to receive updates from users of the EcoPortal community.
 
 ![Wizard for the submission of a new {{ page.atom }}]({{site.figures_link}}/{{page.portal}}/Figure43.png)
+{: .text-center }
 
 _Figure 43:  Wizard for the submission of a new semantic artefact_
 {: .text-center }
@@ -36,6 +37,7 @@ LifeWatch ERIC is a member of [DataCite](https://datacite.org/) and it can provi
 For more detailed information about metadata properties, refer to the General Information of the Metadata schema table.
 
 ![Wizard for adding/editing metadata of the submission for semantic artefacts]({{site.figures_link}}/{{page.portal}}/Figure44.png)
+{: .text-center }
 
 _Figure 44:  Wizard for adding/editing metadata of the submission for semantic artefacts._
 {: .text-center }

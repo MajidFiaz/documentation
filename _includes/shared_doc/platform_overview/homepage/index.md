@@ -33,6 +33,8 @@ The navigation bar at the top of the homepage contains eighth menu items for nav
   - Groups and Categories - to find more information about groups and categories available in EcoPortal.
 
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure1.png)
+{: .text-center }
+
 _Figure 1: EcoPortal Homepage._
 {: .text-center }
 ### Account settings
@@ -40,6 +42,7 @@ _Figure 1: EcoPortal Homepage._
 In the navigation bar, the Account Settings page can be accessed to view all the account details: personal information, submitted semantic artefacts, mailing list subscription, customisation options and the personal API Key (Figure 2).
 
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure2.png)
+{: .text-center }
 
 _Figure 2: Account setting page_
 {: .text-center }

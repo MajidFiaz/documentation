@@ -5,6 +5,8 @@ The Recommender tool allows users to find the most relevant semantic artefacts b
 - _Specialisation_: how specialised is the semantic artefact with respect to the domain of input data? This is calculated using the number and type of annotations performed with the semantic artefact and the position of each annotated class/concept in the semantic artefact hierarchy. The result is normalised by the size of the semantic artefact, in order to identify small semantic artefacts that are specialised to the input data.
 
 ![Recommender Page]({{site.figures_link}}/{{page.portal}}/Figure9.png)
+{: .text-center }
+
 _Figure 9: The recommender tool_
 {: .text-center }
 

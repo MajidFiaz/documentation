@@ -2,6 +2,8 @@
 This section describes the metrics that EcoPortal computes for each semantic artefact (Figure 15). Metrics start to be computed when a semantic artefact is uploaded and they are part of the [EcoPortal Metadata Schema](). By clicking on the window icon next to “Classes”, “Individuals” and “Properties”, users can access the graph showing the evolution of the number of classes/individuals/properties of the selected semantic artefact.
 
 ![Metrics area of the summary page of a semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure15.png)
+{: .text-center }
+
 _Figure 15: Metrics area of the summary page of a semantic artefact_
 {: .text-center }
 

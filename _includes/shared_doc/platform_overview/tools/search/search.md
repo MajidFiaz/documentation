@@ -8,6 +8,7 @@ The advanced search options can be used to add (Figure 4):
 Users can also narrow the search by selecting “exact matches” and/or “classes with definitions” or by selecting one or more categories and/or semantic artefacts using the "Categories" and "Semantic resources" fields. In addition, it is possible to perform a broader search by selecting one or more federated OntoPortal instances, namely AgroPortal, BiodivPortal and EarthPortal, from the section “Results from external portals”.
 
 ![Search Page]({{site.figures_link}}/{{page.portal}}/Figure4.png)
+{: .text-center }
 
 _Figure 4: The search tool_
 {: .text-center }
