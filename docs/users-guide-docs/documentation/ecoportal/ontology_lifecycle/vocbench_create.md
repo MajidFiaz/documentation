@@ -8,9 +8,9 @@ permalink: user_guide/ontology_lifecycle/vocbench_create/EcoPortal
 nav_order: 1
 ---
 
-[VocBench EcoPortal](https://vocbench.lifewatchitaly.eu/vocbench3/) is a service that enables the creation, editing and publishing of semantic artefacts. 
-To create a new project or edit an existing project in **VocBench EcoPortal** there are two options:
-1. **Not registered users** must register to VocBench EcoPortal at the following [link](https://vocbench.lifewatchitaly.eu/vocbench3/)(Figure 29).
+[VocBench](https://vocbench.lifewatchitaly.eu/vocbench3/) is a service that enables the creation, editing and publishing of semantic artefacts. 
+To create a new project or edit an existing project in **VocBench** there are two options:
+1. **Not registered users** must register to VocBench at the following [link](https://vocbench.lifewatchitaly.eu/vocbench3/)(Figure 29).
    Within the registration form, it is possible to request editing permission of a semantic artefact published in EcoPortal by adding the full resource name and acronym (e.g., [Fish Traits Thesaurus (FISHTRAITS)](http://ecoportal.lifewatchitaly.eu/ontologies/FISHTRAITS)) into the box “Existing semantic artefact?”. By default, the last version on EcoPortal is loaded, otherwise users have to specify the version from which to start editing in VocBench. **NOTE**: Only the semantic artefact owner can request editing permission of that resource. 
 
    To create a new semantic artefact users must specify:
@@ -20,11 +20,11 @@ To create a new project or edit an existing project in **VocBench EcoPortal** th
         - https://kos.lifewatch.eu/thesauri/yourACRONYM for thesauri, glossaries or other loose sets of concepts.
     - *Model*: the model of the new project which can be [OWL](https://www.w3.org/TR/owl-features/) or [SKOS](https://www.w3.org/TR/skos-reference/). **NOTE**: To understand more about the SKOS model in EcoPortal it is recommended to read the following section. 
 
-![Registration in VocBench and creation of a new semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure29.png)
-{: .text-center }
-
-_Figure 29: Registration in VocBench and creation of a new semantic artefact_
-{: .text-center }
+   ![Registration in VocBench and creation of a new semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure29.png)
+   {: .text-center }
+   
+   _Figure 29: Registration in VocBench and creation of a new semantic artefact_
+   {: .text-center }
 
 2. **Registered users** can contact the Administrators at this email address semantics@lifewatch.eu, specifying: 
    1. name of the new semantic artefact
@@ -127,6 +127,7 @@ After uploading the Excel file using the "Browse" button, select "Subject mappin
 6. Add the Predicate by selecting the SKOS property “inScheme”;
 7. Then select the Object by clicking on “Concept Scheme” and then on the desired scheme;
 8. Then click “OK”.
+
 **Note**: the Concept Scheme has to be created before uploading the SKOS concepts.
 
 ![Subject header editor]({{site.figures_link}}/{{page.portal}}/Figure39.png)
