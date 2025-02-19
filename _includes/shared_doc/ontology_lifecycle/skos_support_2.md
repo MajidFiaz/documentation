@@ -1,4 +1,5 @@
-**Required SKOS constructs**
+### Required SKOS constructs
+
 - **skos:Concept**. Concepts are the fundamental elements of SKOS vocabularies and are asserted using the skos:Concept class, e.g.: <http://www.example.com/animals> rdf:type skos:Concept
   In SKOS vocabularies, EcoPortal only treats the SKOS concept assertions as concepts to be displayed. If the vocabulary contains other assertions about other types of concepts, EcoPortal will not treat these as concepts in any of its displays or features. See the W3C's [SKOS System Primer](https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/#secconcept) and [SKOS Reference](https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/#secconcept) for concept documentation and examples.
 

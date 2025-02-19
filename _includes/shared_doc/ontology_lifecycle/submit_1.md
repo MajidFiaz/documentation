@@ -1,4 +1,4 @@
-### Submit new {{ page.atoms }}
+## Submit new semantic artefacts
 
 In order to publish a semantic artefact, you need to sign up for an account at the EcoPortal website:
 - Login EcoPortal: [link](http://ecoportal.lifewatchitaly.eu/login?redirect=http%3A%2F%2Fecoportal.lifewatchitaly.eu%2F)

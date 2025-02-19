@@ -9,6 +9,7 @@ nav_order: 2
 ---
 
 ## Export a semantic artefact from VocBench
+
 To facilitate the publication of semantic artefacts in EcoPortal, a direct deployer from VocBench has been constructed. Users have to access the “Global Data Management” menu and click on “Export data”.
 
 The “Export data” panel consists of three sections as shown in Figure 41:

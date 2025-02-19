@@ -7,6 +7,7 @@ grand_parent: Users guide
 permalink: user_guide/ontology_lifecycle/vocbench_create/EcoPortal
 nav_order: 1
 ---
+## Create and edit semantic artefacts
 
 [VocBench](https://vocbench.lifewatchitaly.eu/vocbench3/) is a service that enables the creation, editing and publishing of semantic artefacts. 
 To create a new project or edit an existing project in **VocBench** there are two options:

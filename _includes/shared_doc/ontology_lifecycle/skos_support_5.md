@@ -1,4 +1,5 @@
-**Example of valid SKOS**
+### Example of valid SKOS
+
 This example provides a simple illustration of the composition of a SKOS file that complies with the above constraints.
 - **Example header**. The provided header establishes several common namespaces that could prove valuable. The final namespace is the one responsible for defining the specific SKOS vocabulary in question. Ideally, the IRI associated with the "myskosid" namespace should be a resolvable location pointing to the SKOS semantic artefact.
   ```
