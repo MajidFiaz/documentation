@@ -2,7 +2,7 @@
 
 The {{ page.portal }} homepage (Figure 1) consists of:
 - a header containing the logo on the left and the [navigation bar](#navigation-bar) on the right;
-- a [search bar](/documentation/user_guide/platform_overview/tools/EcoPortal#search) and [search bar1]({% search_and_metrics.md %}) to quickly search for terms or for semantic artefacts by entering a free text. The autocomplete functionality will support the quest by suggesting terms or semantic artefacts available within the portal;
+- a [search bar](/documentation/user_guide/platform_overview/tools/EcoPortal#search) to quickly search for terms or for semantic artefacts by entering a free text. The autocomplete functionality will support the quest by suggesting terms or semantic artefacts available within the portal;
 - some statistical information, provided as bubbles cloud, indicating the number of visits for the EcoPortal semantic artefacts;
 - EcoPortal metrics such as number of published resources, number of classes, etc.;
 - a [recommender]() and [annotator]() box;
