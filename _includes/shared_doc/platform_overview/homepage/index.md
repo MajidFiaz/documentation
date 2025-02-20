@@ -72,6 +72,3 @@ The footer contains all the EcoPortal support links, divided into five sections:
   - Cite Us 
   - Projects
 
-  
-[search bar1]: ({% search_and_metrics.md %})
-
