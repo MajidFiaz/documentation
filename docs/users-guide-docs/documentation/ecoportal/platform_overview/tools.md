@@ -8,7 +8,7 @@ permalink: user_guide/platform_overview/tools/EcoPortal
 nav_order: 2
 ---
 
-
+## EcoPortal Tools
 EcoPortal provides different tools to access, use and manage semantic artefacts including:
 - [browse]() the semantic artefacts;
 - SEARCH
