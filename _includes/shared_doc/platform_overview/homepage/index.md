@@ -18,19 +18,19 @@ The {{ page.portal }} homepage (Figure 1) consists of:
 
 The navigation bar at the top of the homepage contains eighth menu items for navigating within EcoPortal:
 
-- Browse - to search semantic artefacts.
-- Mappings - to explore mappings and upload them.
-- Recommender - to get recommendations from semantic artefacts’ terms.
-- Annotator - to get annotations with semantic artefacts’ terms.
-- Landscape - to visualise data retrieved from analyses on semantic artefacts metadata.
-- VocBench - to create or edit a semantic artefact.
-- Login - to access the login/registration form. Once logged in, username will be displayed here and it will show the access to [account setting]() and “logout” button.
-- Support:
-  - Send Feedback - to request assistance with questions, bug reports, feedback, and so on through an easy-to-use contact form.
-  - Documentation - to access the EcoPortal documentation.
-  - Cite us - to find the citation and read the publications related to EcoPortal.
-  - Release Notes - to read the last release notes.
-  - Groups and Categories - to find more information about groups and categories available in EcoPortal.
+- __Browse__ - to search semantic artefacts.
+- __Mappings__ - to explore mappings and upload them.
+- __Recommender__ - to get recommendations from semantic artefacts’ terms.
+- __Annotator__ - to get annotations with semantic artefacts’ terms.
+- __Landscape__ - to visualise data retrieved from analyses on semantic artefacts metadata.
+- __VocBench__ - to create or edit a semantic artefact.
+- __Login__ - to access the login/registration form. Once logged in, username will be displayed here and it will show the access to [account setting]() and “logout” button.
+- __Support__:
+  - __Send Feedback__ - to request assistance with questions, bug reports, feedback, and so on through an easy-to-use contact form.
+  - __Documentation__ - to access the EcoPortal documentation.
+  - __Cite us__ - to find the citation and read the publications related to EcoPortal.
+  - __Release Notes__ - to read the last release notes.
+  - __Groups and Categories__ - to find more information about groups and categories available in EcoPortal.
 
 ![Homepage]({{site.figures_link}}/{{page.portal}}/Figure1.png)
 {: .text-center }
@@ -56,19 +56,19 @@ The tool automatically executes the tests and evaluates how the semantic artefac
 
 The footer contains all the EcoPortal support links, divided into five sections:
 
-- Products:
-  - Release Notes
-  - API
-  - OntoPortal
-- Support:
-  - Contact Us
-  - Documentation
-- Legal:
-  - Terms & Conditions 
-  - Privacy Policy 
-- About:
-  - About us 
-  - Team 
-  - Cite Us 
-  - Projects
+- __Products__:
+  - __Release Notes__
+  - __API__
+  - __OntoPortal__
+- __Support__:
+  - __Contact Us
+  - __Documentation
+- __Legal:__
+  - __Terms & Conditions__ 
+  - __Privacy Policy__ 
+- __About:__
+  - __About us__ 
+  - __Team__ 
+  - __Cite Us__ 
+  - __Projects__
 

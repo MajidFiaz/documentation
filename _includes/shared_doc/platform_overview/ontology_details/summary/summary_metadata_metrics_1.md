@@ -10,9 +10,9 @@ _Figure 15: Metrics area of the summary page of a semantic artefact_
 
 __Note__: some metrics are meaningful only for semantic artefacts in a specific representation language (e.g., there are no individuals to count in the ontologies in OBO format; there is no SKOS concepts count).
 The statistical metrics include:
-- Number Of Classes: the number of named (not anonymous) classes in the semantic artefact;
-- Number Of Individuals: the number of individuals in the semantic artefact;
-- Number Of Properties: the number of properties or slots in the semantic artefact;
+- _Number Of Classes_: the number of named (not anonymous) classes in the semantic artefact;
+- _Number Of Individuals_: the number of individuals in the semantic artefact;
+- _Number Of Properties_: the number of properties or slots in the semantic artefact;
 
 For more details about the metrics generation, please read [this](https://www.bioontology.org/wiki/Ontology_Metrics). EcoPortal users will be able to access semantic artefact metrics in two ways:
 - through the EcoPortal user interface, in the metrics area of the summary page (see example [here](https://ecoportal.lifewatch.eu/ontologies/ELTER_CL/));
