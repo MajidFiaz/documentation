@@ -10,13 +10,13 @@ nav_order: 2
 
 ## EcoPortal Tools
 EcoPortal provides different tools to access, use and manage semantic artefacts including:
-- [browse]() the semantic artefacts;
-- SEARCH
-- [browse mappings]() among terms in different semantic artefacts;
-- [receive recommendations]() on which semantic artefacts are most relevant for a given corpus;
-- [annotate text]() with terms from semantic artefacts;
-- [create and edit semantic artefacts]() with VocBench Editor.
-All information available through the EcoPortal website is also available through the [REST API documentation]().
+- [browse](#browse) the semantic artefacts;
+- [search](#search) specific class or concepts;
+- [browse mappings](#mappings) among terms in different semantic artefacts;
+- [receive recommendations](#recommender) on which semantic artefacts are most relevant for a given corpus;
+- [annotate text](#annotator) with terms from semantic artefacts;
+- [create and edit semantic artefacts](#vocbench) with VocBench Editor.
+All information available through the EcoPortal website is also available through the [REST API documentation](#create-and-edit-semantic-artefacts).
 
 
 {% include shared_doc/platform_overview/tools/tools.md  %}
