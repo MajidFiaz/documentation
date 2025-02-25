@@ -1,6 +1,6 @@
 ---
-title: Export from VocBench
-summary: How to create and edit semantic artefacts
+title: Export a semantic artefact from VocBench
+summary: How to export semantic artefacts from VocBench
 layout: default
 parent: Semantic artefacts lifecycle @EcoPortal
 grand_parent: Users guide
@@ -28,7 +28,7 @@ After selecting “Deploy to a triple store” in the Deployment dropdown, the D
 
 The warning sign on the right of the widget associated with the EcoPortal Deployer indicates that it requires further configuration. A click on the “Configure” button will open the dialog shown in Figure 40 to edit the chosen configuration. Below is presented a summary of the EcoPortal configuration, which consists of several fields:
 - API Base URL: the base URL of the EcoPortal REST API. If this parameter is omitted, the users can paste the following deployer defaults to the official base URL of EcoPortal: http://ecoportal.lifewatch.eu:8080/.
-- API key (mandatory): the API key that will be used to authorise the semantic artefact submission. User API key can be found in the user account page.
+- API key (mandatory): the API key that will be used to authorise the semantic artefact submission. User API key can be found in the [user account page]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/homepage/index.md %}).
 - Acronym (mandatory): the acronym that identifies the semantic artefact for which the submission is being made.
 - Description: a textual description of the semantic artefact.
 - Version: the version of the semantic artefact.

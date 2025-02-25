@@ -25,6 +25,6 @@ To access semantic artefacts through the API, see our [Resources REST API docume
 
 In the browse page, the “Submit new semantic artefact” button is also available on the upper-left part of the page, but users need to be logged in to perform this operation.
 
-For more information about publishing a new semantic artefact in EcoPortal, please visit the [guide]().
+For more information about publishing a new semantic artefact in EcoPortal, please visit the [guide]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/ontology_lifecycle/submit.md %}).
 
 

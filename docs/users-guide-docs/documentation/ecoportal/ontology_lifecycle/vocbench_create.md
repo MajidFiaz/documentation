@@ -1,6 +1,6 @@
 ---
 title: Create and edit semantic artefacts
-summary: How to export semantic artefacts from VocBench
+summary: How to create and edit semantic artefacts
 layout: default
 parent: Semantic artefacts lifecycle @EcoPortal
 grand_parent: Users guide
@@ -19,7 +19,7 @@ To create a new project or edit an existing project in **VocBench** there are tw
     - *BaseURI*: the URL necessary for the creation of a project. **NOTE**: if users do not have a BaseURI, the system will provide the following: 
         - https://kos.lifewatch.eu/ontologies/yourACRONYM for ontologies;
         - https://kos.lifewatch.eu/thesauri/yourACRONYM for thesauri, glossaries or other loose sets of concepts.
-    - *Model*: the model of the new project which can be [OWL](https://www.w3.org/TR/owl-features/) or [SKOS](https://www.w3.org/TR/skos-reference/). **NOTE**: To understand more about the SKOS model in EcoPortal it is recommended to read the following section. 
+    - *Model*: the model of the new project which can be [OWL](https://www.w3.org/TR/owl-features/) or [SKOS](https://www.w3.org/TR/skos-reference/). **NOTE**: To understand more about the SKOS model in EcoPortal it is recommended to read the following [section]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/ontology_lifecycle/skos_support.md %}). 
 
    ![Registration in VocBench and creation of a new semantic artefact]({{site.figures_link}}/{{page.portal}}/Figure29.png)
    {: .text-center }

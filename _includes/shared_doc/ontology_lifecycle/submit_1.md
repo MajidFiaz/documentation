@@ -4,7 +4,7 @@ In order to publish a semantic artefact, you need to sign up for an account at t
 - Login EcoPortal: [link](http://ecoportal.lifewatchitaly.eu/login?redirect=http%3A%2F%2Fecoportal.lifewatchitaly.eu%2F)
 - Registration EcoPortal: [link](http://ecoportal.lifewatchitaly.eu/accounts/new)
 
-Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchitaly.eu/ontologies) and click the [Submit a semantic artefact](http://ecoportal.lifewatchitaly.eu/ontologies/new) button. The submission form requires to fill out some metadata about the submitted semantic artefact as shown in Figure 43:
+Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchitaly.eu/ontologies) and click the [Submit a semantic artefact](http://ecoportal.lifewatchitaly.eu/ontologies/new) button. The submission form requires to fill out some [metadata]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/metadata_schema.md %}) about the submitted semantic artefact as shown in Figure 43:
 
 - *Name*: name of the {{ page.atom }}.
 - *Acronym*: {{ page.atom }} acronym (NOTE: It is not possible to change the {{ page.atom }} acronym afterwards).
@@ -12,7 +12,7 @@ Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchital
 - *Viewing restriction*: choose if the submitted resource is public (all users, even unregistered users, can see it) or private. 
 - *Categories*: select the categories to which the resource belongs to improve the search tools.
 - *Groups*: select the groups to which the resources belong. Groups associate ontologies from the same project or organisation, for better identification of the provenance
-- *View*: check "this semantic artefact is a view of" to create a new semantic artefact as a [view]() of a semantic artefact selected from the drop-down field.
+- *View*: check "this semantic artefact is a view of" to create a new semantic artefact as a [view]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/ontology_details.md %}) of a semantic artefact selected from the drop-down field.
 - *URI*: The URI of the semantic artefact which is described by this metadata.
 - *Description*: description of the semantic artefact.
 - *Representation* language: the model used to create the semantic artefact (e.g. SKOS, OWL, OBO).
