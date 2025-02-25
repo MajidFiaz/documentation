@@ -61,8 +61,8 @@ The footer contains all the EcoPortal support links, divided into five sections:
   - __API__
   - __OntoPortal__
 - __Support__:
-  - __Contact Us
-  - __Documentation
+  - __Contact Us__
+  - __Documentation__
 - __Legal:__
   - __Terms & Conditions__ 
   - __Privacy Policy__ 
