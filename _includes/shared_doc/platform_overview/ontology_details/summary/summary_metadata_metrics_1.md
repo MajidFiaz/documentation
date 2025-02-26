@@ -19,7 +19,7 @@ For more details about the metrics generation, please read [this](https://www.bi
 - through a dedicated REST service that returns a JSON (see example below).
 
 The following REST service can be used:
-__https://data.ecoportal.lifewatch.eu/ontologies/ELTER_CL/metrics?apikey=YourAPIKey__
+**_https://data.ecoportal.lifewatch.eu/ontologies/ELTER_CL/metrics?apikey=YourAPIKey_**
 The service returns a JSON that contains the version id for the semantic artefact and the values for the metrics:
 
 ```json

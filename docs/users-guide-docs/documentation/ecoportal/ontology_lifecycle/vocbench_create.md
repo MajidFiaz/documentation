@@ -90,7 +90,8 @@ Do the same to create other concepts:
 - Europe
 - Oceania
 - Antarctica
-  The concept tree generated should contain a flat list of the five continents (Figure 36). It should be noted that the list of concepts generated is visualised in alphabetical order.
+  
+The concept tree generated should contain a flat list of the five continents (Figure 36). It should be noted that the list of concepts generated is visualised in alphabetical order.
 
 ![The concept tree in VocBench]({{site.figures_link}}/{{page.portal}}/Figure36.png)
 {: .text-center }
@@ -99,6 +100,7 @@ _Figure 36: The concept tree in VocBench_
 {: .text-center }
 
 To add hierarchical depth to the structure, in the concept tab (Figure 37) select one continent and click on “Create narrow concept” button ( ()* ).
+
 ![Create narrow concept]({{site.figures_link}}/{{page.portal}}/Figure37.png)
 {: .text-center }
 
@@ -106,6 +108,7 @@ _Figure 37: Create narrow concept_
 {: .text-center }
 
 In the creation dialog (Figure 38), specify the label for the narrow concept e.g., “Italy” in English and then click on the **Ok** button.
+
 ![Wizard for the creation of narrower concept]({{site.figures_link}}/{{page.portal}}/Figure38.png)
 {: .text-center }
 

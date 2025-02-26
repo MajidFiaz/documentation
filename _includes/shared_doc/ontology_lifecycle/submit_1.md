@@ -7,7 +7,7 @@ In order to publish a semantic artefact, you need to sign up for an account at t
 Logged in users can navigate to the [Browse page](http://ecoportal.lifewatchitaly.eu/ontologies) and click the [Submit a semantic artefact](http://ecoportal.lifewatchitaly.eu/ontologies/new) button. The submission form requires to fill out some [metadata]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/metadata_schema.md %}) about the submitted semantic artefact as shown in Figure 43:
 
 - *Name*: name of the {{ page.atom }}.
-- *Acronym*: {{ page.atom }} acronym (NOTE: It is not possible to change the {{ page.atom }} acronym afterwards).
+- *Acronym*: {{ page.atom }} acronym (**NOTE**: It is not possible to change the {{ page.atom }} acronym afterwards).
 - *Administrators*: the owners of the resource. Only registered users can be added as administrators of the {{ page.atom }}. 
 - *Viewing restriction*: choose if the submitted resource is public (all users, even unregistered users, can see it) or private. 
 - *Categories*: select the categories to which the resource belongs to improve the search tools.
