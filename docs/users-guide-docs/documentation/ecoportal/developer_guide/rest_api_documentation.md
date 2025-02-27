@@ -25,26 +25,47 @@ The EcoPortal API endpoints include a dictionary named "links" containing URLs o
 #### Available Media Types:
 
 __agents__: https://data.ecoportal.lifewatch.eu/Agents
+
 __categories__: https://data.ecoportal.lifewatch.eu/categories
+
 __groups__: https://data.ecoportal.lifewatch.eu/groups
+
 __Class__: https://data.ecoportal.lifewatch.eu/ontologies/PCO/classes
+
 __documentation__: https://data.ecoportal.lifewatch.eu/documentation
+
 __identifier_requests__: https://data.ecoportal.lifewatch.eu/identifier_requests
+
 __mappings__: https://data.ecoportal.lifewatch.eu/mappings
+
 __metrics__: https://data.ecoportal.lifewatch.eu/metrics
+
 __notes__: https://data.ecoportal.lifewatch.eu/notes
+
 __ontologies__: https://data.ecoportal.lifewatch.eu/ontologies
+
 __ontologies_full__: https://data.ecoportal.lifewatch.eu/ontologies_full
+
 __analytics__: https://data.ecoportal.lifewatch.eu/analytics
+
 __submissions__: https://data.ecoportal.lifewatch.eu/submissions
+
 __projects__: https://data.ecoportal.lifewatch.eu/projects
+
 __provisional_classes__: https://data.ecoportal.lifewatch.eu/provisional_classes
+
 __provisional_relations__: https://data.ecoportal.lifewatch.eu/provisional_relations
+
 __replies__: https://data.ecoportal.lifewatch.eu/replies
+
 __reviews__: https://data.ecoportal.lifewatch.eu/reviews
+
 __slices__: https://data.ecoportal.lifewatch.eu/slices
+
 __submission_metadata__: https://data.ecoportal.lifewatch.eu/submission_metadata
+
 __ontology_metadata__: https://data.ecoportal.lifewatch.eu/ontology_metadata
+
 __users__: https://data.ecoportal.lifewatch.eu/users
 
 #### Agents
@@ -84,7 +105,9 @@ Example: https://data.ecoportal.lifewatch.eu/Agents
 #### Categories
 
 Example: https://data.ecoportal.lifewatch.eu/categories
+
 Example: https://data.ecoportal.lifewatch.eu/categories/Ecology
+
 Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/categories
 
 #### HTTP Methods for Resource
@@ -115,8 +138,11 @@ Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/categories
 #### Class 
 
 Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/classes
+
 Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/classes/roots
+
 Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCBITaxon_2759
+
 Example: https://data.ecoportal.lifewatch.eu/ontologies/PCO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCBITaxon_2759/children
 
 
