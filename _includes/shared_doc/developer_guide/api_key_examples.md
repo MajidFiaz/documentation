@@ -17,6 +17,7 @@ result : LifeWatch ERIC Upper Ontology https://data.ecoportal.lifewatch.eu/ontol
 - Providing an Authorization header:
 
 Authorization: apikey token=your_apikey
+
 ```
 #python code example
 import urllib.request, urllib.error, urllib.parse
